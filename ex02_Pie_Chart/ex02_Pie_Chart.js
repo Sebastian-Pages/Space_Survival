@@ -1,5 +1,5 @@
 /*
- * @name Pie Chart
+ * @name Pie * Chart
  * @description Uses the arc() function to generate a pie chart from the data 
  * stored in an array.
  */
