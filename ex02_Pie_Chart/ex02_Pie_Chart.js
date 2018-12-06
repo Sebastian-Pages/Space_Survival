@@ -6,7 +6,7 @@
 var angles = [ 30, 10, 45, 35, 60, 38, 75, 67 ];
 
 function setup() {
-  createCanvas(720, 400);
+  createCanvas(min(windowWidth,windowHeight),min(windowWidth,windowHeight));
   noStroke();
   noLoop();  // Run once and stop
 }
